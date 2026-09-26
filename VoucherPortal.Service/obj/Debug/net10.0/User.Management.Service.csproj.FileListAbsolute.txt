@@ -1,0 +1,17 @@
+D:\code\000000\AuthenticationAPI\User.Management.API\User.Management.Service\bin\Debug\net10.0\User.Management.Service.deps.json
+D:\code\000000\AuthenticationAPI\User.Management.API\User.Management.Service\bin\Debug\net10.0\User.Management.Service.runtimeconfig.json
+D:\code\000000\AuthenticationAPI\User.Management.API\User.Management.Service\bin\Debug\net10.0\User.Management.Service.dll
+D:\code\000000\AuthenticationAPI\User.Management.API\User.Management.Service\bin\Debug\net10.0\User.Management.Service.pdb
+D:\code\000000\AuthenticationAPI\User.Management.API\User.Management.Service\bin\Debug\net10.0\User.Management.Data.dll
+D:\code\000000\AuthenticationAPI\User.Management.API\User.Management.Service\bin\Debug\net10.0\User.Management.Data.pdb
+D:\code\000000\AuthenticationAPI\User.Management.API\User.Management.Service\obj\Debug\net10.0\User.Management.Service.csproj.AssemblyReference.cache
+D:\code\000000\AuthenticationAPI\User.Management.API\User.Management.Service\obj\Debug\net10.0\User.Management.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\code\000000\AuthenticationAPI\User.Management.API\User.Management.Service\obj\Debug\net10.0\User.Management.Service.AssemblyInfoInputs.cache
+D:\code\000000\AuthenticationAPI\User.Management.API\User.Management.Service\obj\Debug\net10.0\User.Management.Service.AssemblyInfo.cs
+D:\code\000000\AuthenticationAPI\User.Management.API\User.Management.Service\obj\Debug\net10.0\User.Management.Service.csproj.CoreCompileInputs.cache
+D:\code\000000\AuthenticationAPI\User.Management.API\User.Management.Service\obj\Debug\net10.0\User.Man.85E293D1.Up2Date
+D:\code\000000\AuthenticationAPI\User.Management.API\User.Management.Service\obj\Debug\net10.0\User.Management.Service.dll
+D:\code\000000\AuthenticationAPI\User.Management.API\User.Management.Service\obj\Debug\net10.0\refint\User.Management.Service.dll
+D:\code\000000\AuthenticationAPI\User.Management.API\User.Management.Service\obj\Debug\net10.0\User.Management.Service.pdb
+D:\code\000000\AuthenticationAPI\User.Management.API\User.Management.Service\obj\Debug\net10.0\User.Management.Service.genruntimeconfig.cache
+D:\code\000000\AuthenticationAPI\User.Management.API\User.Management.Service\obj\Debug\net10.0\ref\User.Management.Service.dll

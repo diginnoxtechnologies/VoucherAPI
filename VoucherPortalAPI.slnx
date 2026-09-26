@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="VoucherPortal.API/VoucherPortal.API.csproj" />
+  <Project Path="VoucherPortal.Data/VoucherPortal.Data.csproj" />
+  <Project Path="VoucherPortal.Service/VoucherPortal.Service.csproj" />
+</Solution>

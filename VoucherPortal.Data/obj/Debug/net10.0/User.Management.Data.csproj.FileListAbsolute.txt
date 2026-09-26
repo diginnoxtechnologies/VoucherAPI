@@ -1,0 +1,14 @@
+D:\code\000000\AuthenticationAPI\User.Management.API\User.Management.Data\bin\Debug\net10.0\User.Management.Data.deps.json
+D:\code\000000\AuthenticationAPI\User.Management.API\User.Management.Data\bin\Debug\net10.0\User.Management.Data.runtimeconfig.json
+D:\code\000000\AuthenticationAPI\User.Management.API\User.Management.Data\bin\Debug\net10.0\User.Management.Data.dll
+D:\code\000000\AuthenticationAPI\User.Management.API\User.Management.Data\bin\Debug\net10.0\User.Management.Data.pdb
+D:\code\000000\AuthenticationAPI\User.Management.API\User.Management.Data\obj\Debug\net10.0\User.Management.Data.csproj.AssemblyReference.cache
+D:\code\000000\AuthenticationAPI\User.Management.API\User.Management.Data\obj\Debug\net10.0\User.Management.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\code\000000\AuthenticationAPI\User.Management.API\User.Management.Data\obj\Debug\net10.0\User.Management.Data.AssemblyInfoInputs.cache
+D:\code\000000\AuthenticationAPI\User.Management.API\User.Management.Data\obj\Debug\net10.0\User.Management.Data.AssemblyInfo.cs
+D:\code\000000\AuthenticationAPI\User.Management.API\User.Management.Data\obj\Debug\net10.0\User.Management.Data.csproj.CoreCompileInputs.cache
+D:\code\000000\AuthenticationAPI\User.Management.API\User.Management.Data\obj\Debug\net10.0\User.Management.Data.dll
+D:\code\000000\AuthenticationAPI\User.Management.API\User.Management.Data\obj\Debug\net10.0\refint\User.Management.Data.dll
+D:\code\000000\AuthenticationAPI\User.Management.API\User.Management.Data\obj\Debug\net10.0\User.Management.Data.pdb
+D:\code\000000\AuthenticationAPI\User.Management.API\User.Management.Data\obj\Debug\net10.0\User.Management.Data.genruntimeconfig.cache
+D:\code\000000\AuthenticationAPI\User.Management.API\User.Management.Data\obj\Debug\net10.0\ref\User.Management.Data.dll
